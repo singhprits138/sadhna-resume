@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sadhna-resume/static/css/main.a65c5e32.chunk.css",
+    "main.js": "/sadhna-resume/static/js/main.2ebb5bc2.chunk.js",
+    "main.js.map": "/sadhna-resume/static/js/main.2ebb5bc2.chunk.js.map",
+    "runtime-main.js": "/sadhna-resume/static/js/runtime-main.bed6c462.js",
+    "runtime-main.js.map": "/sadhna-resume/static/js/runtime-main.bed6c462.js.map",
+    "static/js/2.9095a3f9.chunk.js": "/sadhna-resume/static/js/2.9095a3f9.chunk.js",
+    "static/js/2.9095a3f9.chunk.js.map": "/sadhna-resume/static/js/2.9095a3f9.chunk.js.map",
+    "index.html": "/sadhna-resume/index.html",
+    "precache-manifest.f084638332e1d362e9b5d1c9a3077f52.js": "/sadhna-resume/precache-manifest.f084638332e1d362e9b5d1c9a3077f52.js",
+    "service-worker.js": "/sadhna-resume/service-worker.js",
+    "static/css/main.a65c5e32.chunk.css.map": "/sadhna-resume/static/css/main.a65c5e32.chunk.css.map",
+    "static/js/2.9095a3f9.chunk.js.LICENSE": "/sadhna-resume/static/js/2.9095a3f9.chunk.js.LICENSE",
+    "static/media/pri1.png": "/sadhna-resume/static/media/pri1.df3b5b48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed6c462.js",
+    "static/js/2.9095a3f9.chunk.js",
+    "static/css/main.a65c5e32.chunk.css",
+    "static/js/main.2ebb5bc2.chunk.js"
+  ]
+}
